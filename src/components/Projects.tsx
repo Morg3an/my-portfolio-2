@@ -20,8 +20,8 @@ const projects: Project[] = [
     image: "https://www.ziprecruiter.com/svc/fotomat/public-ziprecruiter/cms/1036557452PartTimeNETDeveloper.jpg=ws1280x960?auto=format&fit=crop&w=800&q=80",
     category: "Websites",
     techStack: ["React", "Vite", "TypeScript", "Tailwind CSS"],
-    demoLink: "https://demo.com",
-    githubLink: "https://github.com"
+    demoLink: "https://my-portfolio-2-vert.vercel.app/",
+    githubLink: "https://github.com/Morg3an/my-portfolio-2.git"
   },
   {
     title: "E-commerce App",
