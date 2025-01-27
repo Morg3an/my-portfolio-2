@@ -21,7 +21,7 @@ const projects: Project[] = [
     category: "Websites",
     techStack: ["React", "Vite", "TypeScript", "Tailwind CSS"],
     demoLink: "https://my-portfolio-2-vert.vercel.app/",
-    githubLink: "https://github.com/Morg3an/my-portfolio-2.git"
+    githubLink: "https://github.com/Morg3an/my-portfolio-2"
   },
   {
     title: "E-commerce App",
