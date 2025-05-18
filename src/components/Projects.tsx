@@ -24,13 +24,13 @@ const projects: Project[] = [
     githubLink: "https://github.com/Morg3an/my-portfolio-2"
   },
   {
-    title: "E-commerce App",
-    description: "A collaborative e-commerce application with real-time updates",
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&w=800&q=80",
+    title: "Parent-Teacher Communication App",
+    description: "A responsive parent-teacher communication application done in Django and Bootstrap UI",
+    image: "https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg?auto=compress&cs=tinysrgb&w=600",
     category: "Applications",
-    techStack: ["Node.js", "Firebase", "Tailwind CSS", "React"],
-    demoLink: "https://demo.com",
-    githubLink: "https://github.com"
+    techStack: ["Django", "Python", "HTML5", "FastAPI"],
+    demoLink: "https://parent-teacher-comm-app.onrender.com/",
+    githubLink: "https://github.com/Morg3an/parent-teacher-comm-app"
   },
   {
     title: "Fitness Tracking App",
