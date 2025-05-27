@@ -19,20 +19,21 @@ export default function About() {
         </h2>
 
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-          <div className="space-y-6 animate-fade-in">
-            <p className="text-lg text-gray-600 dark:text-gray-300">
-              Hello! I'm a backend and systems developer with a passion for building scalable and efficient solutions. My expertise lies in Rust, Node.js, and exploring the limitless potential of Web3 technologies.
-            </p>
-            <p className="text-lg text-gray-600 dark:text-gray-300">
-              My journey began with a deep curiosity for how systems work and how to make them better. Over the years, I've honed my skills in crafting robust backend systems, diving deep into Rust's ecosystem, and pushing the boundaries of modern development practices.
-            </p>
-            <div className="bg-gradient-to-r from-green-600 to-blue-600 p-6 rounded-xl text-white">
-              <p className="text-lg font-medium">
-                "I strive to write clean, maintainable code and design systems that are as intuitive as they are powerful."
-              </p>
-            </div>
+  <div className="space-y-6 animate-fade-in">
+    <p className="text-lg text-gray-600 dark:text-gray-300">
+      Hello! I'm a front-end developer passionate about creating beautiful, responsive, and user-centric digital experiences. I specialize in React, Tailwind CSS, and bringing UI/UX designs to life with clean and efficient code.
+    </p>
+    <p className="text-lg text-gray-600 dark:text-gray-300">
+      My journey began with a love for visual storytelling and interactive design. Over time, I've sharpened my skills in building accessible, mobile-first interfaces and collaborating closely with design and backend teams to deliver seamless user experiences.
+    </p>
+    <div className="bg-gradient-to-r from-pink-500 to-purple-600 p-6 rounded-xl text-white">
+      <p className="text-lg font-medium">
+        "I believe the best interfaces not only look good—they feel good to use."
+      </p>
+    </div>
+  </div>
+</div>
 
-          </div>
 
           <div className="relative">
             <div className="relative z-10">
