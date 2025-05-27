@@ -11,8 +11,8 @@ export default function Hero() {
             </span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-600 dark:text-gray-300">
-          Backend & Systems Developer | 🦀 Rust | 💻 Node.js | 🌐 Web3 Enthusiast | 🎮 Gamer |
-          Building scalable systems, mastering Rust, Node.js, probing Web3's future
+          Front-End Developer | ⚛️ React | 🎨 UI/UX Enthusiast | 📱 Responsive Design | 🌍 Web Explorer
+Crafting sleek interfaces, refining UX, and bringing designs to life with code
           </p>
           <div className="flex gap-4 mb-8">
             <a
